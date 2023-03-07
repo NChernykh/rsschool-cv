@@ -42,7 +42,7 @@ function sumCubes(n){
 * [BIM Academy](https://bimacad.ru)
 * [management company - УЖСК](https://rempuzhsk.ru)
 * [VTB - research of client experience](https://digital.infografika.agency/vtb/clientexp/)
-* [Jewelery](jewellery-jet.vercel.app)<br/>https://github.com/NChernykh/Jewellery
+* [Jewelery](https://jewellery-jet.vercel.app/main.html)<br/>https://github.com/NChernykh/Jewellery
 * [Restaurant](https://hello-brand-test-six.vercel.app/)<br/>https://github.com/NChernykh/hello-brand-test
 
 ## Education:
