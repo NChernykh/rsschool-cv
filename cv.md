@@ -1,3 +1,5 @@
+[<img src="./myPhoto.jpg" width="225"/>](./myPhoto.jpg)
+
 # Nadezhda Chernykh
 
 ## Contacts:
