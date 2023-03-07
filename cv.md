@@ -47,14 +47,14 @@ function sumCubes(n){
 
 ## Education:
 
-* __Moscow State University__<br/>
-the Faculty of Geology,  Master
-* __HTML Academy__<br/>
-"Frontend Developer"
-* __Udemy__<br/>
-JavaScript + React(Redux) in process...
 * __RS.School__<br/>
 Frontend/JavaScript in process...
+* __Udemy__<br/>
+JavaScript + React(Redux) in process...
+* __HTML Academy__<br/>
+"Frontend Developer"
+* __Moscow State University__<br/>
+the Faculty of Geology,  Master
 
 ## English:
 
